@@ -2,7 +2,11 @@
 
 ## Description
 
-The goal was to refactor given code to match the resulting webpage desired
+The goal was to refactor given code to match the resulting webpage desired.
+
+## Code Source
+
+[[Source code](../UNCC-VIRT-FSF-PT-07-2023-U-LOLC/01-HTML-Git-CSS/02-Challenge/Develop)]
 
 # Page Link
 
