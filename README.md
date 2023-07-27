@@ -10,8 +10,8 @@ The goal was to refactor given code to match the resulting webpage desired
 
 # View
 
-![Alt text](image.png)
-![Alt text](image-1.png)
+![Webpage screenshot 1](./assets/images/image.png)
+![Webpage screenshot 2](./assets/images/image-1.png)
 
 ## Installation
 
