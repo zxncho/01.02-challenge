@@ -9,15 +9,17 @@ body {
 }
 
 .header {
-    padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    padding-bottom: 15px;
 }
 
 .header h1 {
     display: inline-block;
     font-size: 48px;
+    padding: 15px;
+    line-height: 1.5;
 }
 
 .header h1 .seo {
@@ -25,11 +27,17 @@ body {
 }
 
 .header div {
-    padding-top: 15px;
-    margin-right: 20px;
+    padding-top: 40px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    line-height: 1;
+    background-color: #2a607c;
+}
+
+.nav
+{
+   padding-bottom: 15px;
 }
 
 .header div ul {
@@ -55,8 +63,9 @@ p {
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
+    background-size:cover;
     background-position: center;
+    transform: scale(1.025);
 }
 
 .float-left {
